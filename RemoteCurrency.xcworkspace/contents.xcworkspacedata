@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "container:Read Me About RemoteCurrency.txt">
+   </FileRef>
+   <FileRef
+      location = "container:RemoteCurrencyClient/RemoteCurrencyClient.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "container:RemoteCurrencyServer/RemoteCurrencyServer.xcodeproj">
+   </FileRef>
+</Workspace>
